@@ -1,0 +1,1 @@
+ArduCopter is an open source multicopter unmanned aerial vehicle platform created by the DIY Drones community based on the Arduino platform. This project in addition to utilizing Arducopter this copter will have the addition of live camera streaming using a Raspberry pi. 
